@@ -1,7 +1,6 @@
 # ThickBrick tutorial for PyHEP 2020
 > Konstantin T. Matchev, Alexander Roman, Prasanth Shyamsundar  
-> University of Florida  
-> <img src="Orange-UF-Monogram.jpg" width=60px><br>
+> University of Florida
 
 Package repository: https://gitlab.com/prasanthcakewalk/thickbrick/  
 Package website: https://prasanthcakewalk.gitlab.io/thickbrick/
