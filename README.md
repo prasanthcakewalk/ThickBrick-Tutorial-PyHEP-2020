@@ -2,7 +2,7 @@
 > Konstantin T. Matchev, Alexander Roman, Prasanth Shyamsundar  
 > University of Florida
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/prasanthcakewalk/ThickBrick-Tutorial-PyHEP-2020/pyhep2020?urlpath=lab/tree/ThickBrick_tutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/prasanthcakewalk/ThickBrick-Tutorial-PyHEP-2020/pyhep2020ver?urlpath=lab/tree/ThickBrick_tutorial.ipynb)
 
 ThickBrick repository: https://gitlab.com/prasanthcakewalk/thickbrick/  
 ThickBrick website: https://prasanthcakewalk.gitlab.io/thickbrick/
